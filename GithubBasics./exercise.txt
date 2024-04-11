@@ -1,0 +1,11 @@
+1. The Terminal is a streamlined way to navigate through your computer, without having to use the standard UI.
+
+2. Github is a public platform built around Git. Git is the version control system to help manage changes to your code locally
+
+3. 
+  -Find the repository you want to fork
+  -Click on the fork icon on top right 
+  -copy url
+  -open terminal and cd to desktop
+  -git clone[url]
+
